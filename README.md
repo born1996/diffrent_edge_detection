@@ -1,0 +1,2 @@
+# diffrent_edge_detection
+暑期学校的项目，运用三种不同的算子进行边缘检测，分别是sobel算子，Prewitt算子，Laplacian算子
